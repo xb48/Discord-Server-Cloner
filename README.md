@@ -1,6 +1,6 @@
-Reports
-Reports – View and manage submitted reports.
-Submit Report – Create and submit a new report.
+# Reports
+- Reports – View and manage submitted reports.
+- Submit Report – Create and submit a new report.
 Insights – Access analytics and statistics related to reports and activity.
 Token Tools
 Token Gen – Generate tokens based on the platform's supported methods.
