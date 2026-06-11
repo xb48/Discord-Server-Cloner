@@ -28,7 +28,7 @@
 - Server Cloner – Replicate server structures and configurations.
 - Nitro Sniper – Monitor and detect eligible Nitro-related opportunities.
 - Mass Server Leaver – Leave multiple servers simultaneously through a single operation.
-
+# Info
 - Discord Server: https://discord.gg/85A4exsexq
 - Website: https://reportix.net/
 - Owner: xb48
