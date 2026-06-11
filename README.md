@@ -1,3 +1,7 @@
+<img width="1121" height="632" alt="Screenshot 2026-06-11 155001" src="https://github.com/user-attachments/assets/c6289257-f700-4b36-9397-338851dc21d5" />
+<img width="1190" height="803" alt="Screenshot 2026-06-11 155116" src="https://github.com/user-attachments/assets/6a30488e-9f6e-4fc5-8e45-9a5ffa9d9e05" />
+<img width="1919" height="910" alt="Screenshot 2026-06-11 155259" src="https://github.com/user-attachments/assets/ca6e2370-2c3e-4780-a63d-ae76413b0504" />
+
 # Reports
 - Reports – View and manage submitted reports.
 - Submit Report – Create and submit a new report.
@@ -28,6 +32,3 @@
 - Discord Server: https://discord.gg/85A4exsexq
 - Website: https://reportix.net/
 - Owner: xb48
-<img width="1121" height="632" alt="Screenshot 2026-06-11 155001" src="https://github.com/user-attachments/assets/c6289257-f700-4b36-9397-338851dc21d5" />
-<img width="1190" height="803" alt="Screenshot 2026-06-11 155116" src="https://github.com/user-attachments/assets/6a30488e-9f6e-4fc5-8e45-9a5ffa9d9e05" />
-<img width="1919" height="910" alt="Screenshot 2026-06-11 155259" src="https://github.com/user-attachments/assets/ca6e2370-2c3e-4780-a63d-ae76413b0504" />
